@@ -1,0 +1,29 @@
+C:\Visual Studio\C#\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Visual Studio\C#\Dashboard\bin\Debug\Dashboard.exe
+C:\Visual Studio\C#\Dashboard\bin\Debug\Dashboard.pdb
+C:\Visual Studio\C#\Dashboard\bin\Debug\FontAwesome.Sharp.dll
+C:\Visual Studio\C#\Dashboard\obj\Debug\Dashboard.csproj.AssemblyReference.cache
+C:\Visual Studio\C#\Dashboard\obj\Debug\MainWindow.g.cs
+C:\Visual Studio\C#\Dashboard\obj\Debug\App.g.cs
+C:\Visual Studio\C#\Dashboard\obj\Debug\Dashboard_MarkupCompile.cache
+C:\Visual Studio\C#\Dashboard\obj\Debug\Dashboard_MarkupCompile.lref
+C:\Visual Studio\C#\Dashboard\obj\Debug\MainWindow.baml
+C:\Visual Studio\C#\Dashboard\obj\Debug\Dashboard.g.resources
+C:\Visual Studio\C#\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Visual Studio\C#\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Visual Studio\C#\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Visual Studio\C#\Dashboard\obj\Debug\Dashboard.csproj.CopyComplete
+C:\Visual Studio\C#\Dashboard\obj\Debug\Dashboard.exe
+C:\Visual Studio\C#\Dashboard\obj\Debug\Dashboard.pdb
+C:\Visual Studio\C#\Dashboard\obj\Debug\User Controls\InfoCard.g.cs
+C:\Visual Studio\C#\Dashboard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Visual Studio\C#\Dashboard\obj\Debug\App.baml
+C:\Visual Studio\C#\Dashboard\obj\Debug\User Controls\InfoCard.baml
+C:\Visual Studio\C#\Dashboard\obj\Debug\User Controls\Order.g.cs
+C:\Visual Studio\C#\Dashboard\obj\Debug\User Controls\Order.baml
+C:\Visual Studio\C#\Dashboard\bin\Debug\LiveCharts.dll
+C:\Visual Studio\C#\Dashboard\bin\Debug\LiveCharts.Wpf.dll
+C:\Visual Studio\C#\Dashboard\bin\Debug\LiveCharts.pdb
+C:\Visual Studio\C#\Dashboard\bin\Debug\LiveCharts.xml
+C:\Visual Studio\C#\Dashboard\bin\Debug\LiveCharts.Wpf.pdb
+C:\Visual Studio\C#\Dashboard\bin\Debug\LiveCharts.Wpf.xml
